@@ -1,6 +1,6 @@
 # Services - Content Creation & Development Platform
 
-Content Creation, Advertising, Blogs, Development and Hosting Services by The Tech Show Media
+This repository is actualy copy of The Tech Show Media Live Website with features like creating automatic invoices, renewing subscription monthly/yearly and delighting customers with beautiful landing page and emails. This is built on Next JS with microservices from Google Cloud Platform, Stripe and Mailchimp. 
 
 ## 🚀 Getting Started
 
